@@ -30,13 +30,13 @@ I enjoy building efficient solutions, exploring data, and continuously improving
 
 ### Programming Languages & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,oracle" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,r,mySQL" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" width="50"/>
 </p>
 
 - 🐍 Python  
 - 📊 R (RStudio)  
-- 🛢️ Oracle APEX  
+- 🛢️ SQL
 - 👽 Reddit API & Data Extraction  
 
 ---
