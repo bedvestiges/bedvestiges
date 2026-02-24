@@ -4,51 +4,56 @@
 ---
 
 ## 🚀 About Me
-I am a motivated **Data Science and Artificial Intelligence student** with a strong passion for:
+I am a motivated **Data Science and Artificial Intelligence student** with strong interests in:
 
 - 💻 Computer Programming  
 - 🧠 Algorithmic Thinking  
 - 🔍 Adaptive Problem Solving  
-- 📊 Data Analysis and Visualisation  
-- 🤖 Artificial Intelligence and Machine Learning  
-
-I enjoy building efficient solutions, exploring data, and continuously improving my computational and analytical thinking.
-
----
-
-## 🧠 Interests
-- Algorithm Design  
-- Artificial Intelligence  
-- Data Science & Analytics  
-- Automation & Scripting  
-- Computational Thinking  
-- Problem Solving  
+- 📊 Data Analysis  
+- 🤖 Artificial Intelligence  
 
 ---
 
 ## 🧩 Skills
 
 ### Programming Languages & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mySQL" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" width="50"/>
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="50" alt="Reddit"/>
+
 </p>
 
-- 🐍 Python  
-- 📊 R (RStudio)  
-- 🛢️ SQL
-- 👽 Reddit API & Data Extraction  
+- Python  
+- R (RStudio)  
+- Oracle APEX  
+- Reddit API  
 
 ---
 
 ## ⚙️ Technologies & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,powershell" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" height="50" width="50"/>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="PyCharm"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" alt="Google Colab"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="PowerShell/Linux Terminal"/>
+
 </p>
 
-- Visual Studio Code  
+- VS Code  
 - PyCharm  
 - Google Colab  
 - PowerShell  
@@ -56,41 +61,9 @@ I enjoy building efficient solutions, exploring data, and continuously improving
 
 ---
 
-## 📈 What I'm Working On
-- Developing data analysis projects in Python and R  
-- Learning machine learning algorithms  
-- Improving algorithm efficiency and optimisation  
-- Building portfolio projects for Data Science & AI  
-
----
-
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="165"/>
-</p>
+```md
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
 
----
-
-## 🧰 Core Competencies
-
-- Algorithmic Thinking  
-- Data Analysis  
-- Programming Logic  
-- Problem Solving  
-- Debugging & Troubleshooting  
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-</p>
-
----
-
-⭐ *Always learning. Always building. Always improving.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
