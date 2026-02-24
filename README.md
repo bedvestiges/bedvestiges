@@ -63,7 +63,6 @@ I am a motivated **Data Science and Artificial Intelligence student** with stron
 
 ## 📊 GitHub Stats
 
-```md
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedvestiges&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedvestiges&layout=compact&theme=github_dark)
