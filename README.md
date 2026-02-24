@@ -1,44 +1,96 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+# 👋 Joseph Williams  
+### 🎓 Data Science and Artificial Intelligence Student  
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+---
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedvestiges&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+## 🚀 About Me
+I am a motivated **Data Science and Artificial Intelligence student** with a strong passion for:
 
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedvestiges&theme=dracula&column=7" alt="bedvestiges" /></a> </p>
+- 💻 Computer Programming  
+- 🧠 Algorithmic Thinking  
+- 🔍 Adaptive Problem Solving  
+- 📊 Data Analysis and Visualisation  
+- 🤖 Artificial Intelligence and Machine Learning  
 
-<!-- BREVE DESCRIPCION -->
+I enjoy building efficient solutions, exploring data, and continuously improving my computational and analytical thinking.
 
-**Hi There :wave:** 
+---
 
-Welcome to my profile! My name is Joe and below are some details about me currently...
+## 🧠 Interests
+- Algorithm Design  
+- Artificial Intelligence  
+- Data Science & Analytics  
+- Automation & Scripting  
+- Computational Thinking  
+- Problem Solving  
 
-- 📚 I am currently studying at [Leeds Beckett University](https://www.leedsbeckett.ac.uk/)
+---
 
-- 👨‍🎓 My Course is Data Science and Machine Learning.
+## 🧩 Skills
 
-- 👨‍⚕️ I am currently working as an intern at the NHS (ICB) within the Network Data Lab.
-
-- 📫 How to reach me **J.Williams3494@student.leedsbeckett.ac.uk**
-
-- Beyond my studies and work, I am a competitive boulderer 🧗‍♂️ I enjoy cinema 🎦 and I love pretty much every type of game 🎮
-
-<!-- CONTACTO -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/joseph-williams-6a7190139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph williams" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jmw___451/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmw___451" height="30" width="40" /></a>
+### Programming Languages & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,oracle" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/reddit.svg" height="50" width="50"/>
 </p>
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+- 🐍 Python  
+- 📊 R (RStudio)  
+- 🛢️ Oracle APEX  
+- 👽 Reddit API & Data Extraction  
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+---
 
-------
+## ⚙️ Technologies & Tools
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,powershell" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" height="50" width="50"/>
+</p>
+
+- Visual Studio Code  
+- PyCharm  
+- Google Colab  
+- PowerShell  
+- Linux  
+
+---
+
+## 📈 What I'm Working On
+- Developing data analysis projects in Python and R  
+- Learning machine learning algorithms  
+- Improving algorithm efficiency and optimisation  
+- Building portfolio projects for Data Science & AI  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="165"/>
+</p>
+
+---
+
+## 🧰 Core Competencies
+
+- Algorithmic Thinking  
+- Data Analysis  
+- Programming Logic  
+- Problem Solving  
+- Debugging & Troubleshooting  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+</p>
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
