@@ -26,7 +26,7 @@ I am a motivated **Data Science and Artificial Intelligence student** with stron
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="Oracle"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" height="50" alt="Reddit"/>
+<img src="https://cdn.simpleicons.org/reddit/FF4500" height="50" alt="Reddit"/>
 
 </p>
 
