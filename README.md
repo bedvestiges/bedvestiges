@@ -63,6 +63,10 @@ I am a motivated **Data Science and Artificial Intelligence student** with stron
 
 ## 📊 GitHub Stats
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedvestiges&show_icons=true&theme=github_dark)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedvestiges&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=bedvestiges&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedvestiges&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+
+</p>
